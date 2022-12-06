@@ -7,8 +7,8 @@ import time
 
 rad=int(input("Enter the radius: "))
 rad_half=rad/2
-c_x=int(input("Enter center: "))
-c_y=int(input("Enter center: "))
+c_x=int(input("Enter center, x: "))
+c_y=int(input("Enter center, y: "))
 
 #outer circle
 def midpointcircle():
